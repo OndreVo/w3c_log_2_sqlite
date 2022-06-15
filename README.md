@@ -6,7 +6,7 @@ Simple utility to parse W3C HTTP log files (from IIS) to SQLite database so you 
 Utility looks for config.json in current directory of in a file specified by --config option on command line. For config file syntaxe (it's JSON) look at config.sample
 
 ## Usage
-log2sqlite.py <list of log files>
+log2sqlite.py __list of log files__
 
 ### More options
 -h - print help
