@@ -1,0 +1,5 @@
+{
+    "db":"w3clog.sqlite",
+    "table":"log",
+    "qpar":["_pagetype"]
+}
